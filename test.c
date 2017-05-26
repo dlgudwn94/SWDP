@@ -1,2 +1,2 @@
-what's up?
-#inclued <sdtio.h>
+//what's up?
+#include <stdio.h>
