@@ -1,8 +1,8 @@
 //what's up?
 #include <stdio.h>
-#define roop 10
+#define ROOP 10
 int main(void) {
-  for(int i=0; i<roop; i++)
+  for(int i=0; i<ROOP; i++)
   printf("Hello World!");
   
   return 0;
