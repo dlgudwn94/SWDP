@@ -2,13 +2,13 @@
 #include <stdio.h>
 #define ROOP 10
 int main(void) {
-  char arry;
+  char String[100];
   for(int i=0; i<ROOP; i++)
-  printf("Hello World!");
+    printf("Hello World!");
   
-  scanf("%s",arry);
+  scanf("%s",String);
   
-  cout<<arry;
+  printf("%s",String);
   
   return 0;
 }
